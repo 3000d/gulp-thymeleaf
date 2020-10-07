@@ -3,6 +3,8 @@ gulp-thymeleaf
 
 Thymeleaf plugin for gulp
 
+This fork uses THJS version 0.20.1
+
 
 Install
 -------
